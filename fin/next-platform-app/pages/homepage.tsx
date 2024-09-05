@@ -14,32 +14,32 @@ const HomePage = () => {
       <header id="navbar">
         <div className="container d-flex flex-column align-items-center">
           <h1>
-            <a href="#">CineGuide</a>
+            <a href="#">hey_bao_</a>
           </h1>
           <nav className="nav-container">
             <ul className="nav flex-column">
               <li className="nav-item">
                 <a className="nav-link" href="/info">
                   {' '}
-                  영화 소개{' '}
+                  tmp1{' '}
                 </a>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="/recommend">
                   {' '}
-                  영화 검색{' '}
+                  tmp2{' '}
                 </a>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="/find">
                   {' '}
-                  영화 추천{' '}
+                  tmp3{' '}
                 </a>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="/bookmark">
                   {' '}
-                  북마크{' '}
+                  tmp4{' '}
                 </a>
               </li>
             </ul>
